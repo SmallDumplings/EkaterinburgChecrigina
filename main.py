@@ -1,2 +1,1 @@
-def maik():
-    print("hi")
+print("My first git-repo")
